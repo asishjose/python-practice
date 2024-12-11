@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61c69a7d-e291-4fcc-a4d5-dec8e7775e39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2darrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/self&amp;comparing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,9 +37,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.2darrays.executor": "Run",
     "Python.2dimarray.executor": "Run",
     "Python.anonymous.executor": "Run",
     "Python.argv.executor": "Run",
+    "Python.calculator.executor": "Run",
     "Python.classobjects.executor": "Run",
     "Python.decorator.executor": "Run",
     "Python.demo.executor": "Run",
@@ -43,19 +49,26 @@
     "Python.fibonacci.executor": "Run",
     "Python.filter.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.init.executor": "Run",
     "Python.kwargs.executor": "Run",
     "Python.passlistinfun.executor": "Run",
     "Python.pattern.executor": "Run",
     "Python.recursion.executor": "Run",
     "Python.sample.executor": "Run",
+    "Python.self&comparing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/aksha/PycharmProjects/PythonProject",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aksha\PycharmProjects\PythonProject\OOPS" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,5 +86,16 @@
       <updated>1733748257641</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2darrays.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
