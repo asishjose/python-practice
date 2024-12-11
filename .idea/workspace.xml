@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61c69a7d-e291-4fcc-a4d5-dec8e7775e39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2darray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/classobjects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__name__/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__name__/sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anonymous.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/argv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passlistinfun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +36,7 @@
     "Python.2dimarray.executor": "Run",
     "Python.anonymous.executor": "Run",
     "Python.argv.executor": "Run",
+    "Python.classobjects.executor": "Run",
     "Python.decorator.executor": "Run",
     "Python.demo.executor": "Run",
     "Python.factorial.executor": "Run",
