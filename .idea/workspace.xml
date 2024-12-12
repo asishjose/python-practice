@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61c69a7d-e291-4fcc-a4d5-dec8e7775e39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2darrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/self&amp;comparing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/ducktyping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/innerclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/instance&amp;static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractcalc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multipleargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pantry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,23 +48,35 @@
   "keyToString": {
     "Python.2darrays.executor": "Run",
     "Python.2dimarray.executor": "Run",
+    "Python.abstract.executor": "Run",
+    "Python.abstractcalc.executor": "Run",
     "Python.anonymous.executor": "Run",
     "Python.argv.executor": "Run",
     "Python.calculator.executor": "Run",
     "Python.classobjects.executor": "Run",
+    "Python.constructor.executor": "Run",
     "Python.decorator.executor": "Run",
     "Python.demo.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.ducktyping.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
     "Python.filter.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.getset.executor": "Run",
+    "Python.inheritance.executor": "Run",
     "Python.init.executor": "Run",
+    "Python.innerclass.executor": "Run",
+    "Python.instance&static.executor": "Run",
     "Python.kwargs.executor": "Run",
+    "Python.multipleargs.executor": "Run",
+    "Python.pantry.executor": "Run",
     "Python.passlistinfun.executor": "Run",
     "Python.pattern.executor": "Run",
     "Python.recursion.executor": "Run",
     "Python.sample.executor": "Run",
     "Python.self&comparing.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -94,6 +115,16 @@
           <url>file://$PROJECT_DIR$/2darrays.py</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/getset.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pantry.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
