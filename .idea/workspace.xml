@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61c69a7d-e291-4fcc-a4d5-dec8e7775e39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/customexception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/binarysearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/bubblesort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/linearsearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/selectionsort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictcomprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptionhandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filehandling/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filehandling/img.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filehandling/mydata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listcomprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zipfunction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/connection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +46,7 @@
     "Python.bubblesort.executor": "Run",
     "Python.calculator.executor": "Run",
     "Python.classobjects.executor": "Run",
+    "Python.connection.executor": "Run",
     "Python.constructor.executor": "Run",
     "Python.customexception.executor": "Run",
     "Python.decorator.executor": "Run",
@@ -62,6 +54,7 @@
     "Python.dictcomprehension.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.ducktyping.executor": "Run",
+    "Python.duplicate.executor": "Debug",
     "Python.exceptionhandling.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
@@ -86,6 +79,7 @@
     "Python.selectionsort.executor": "Run",
     "Python.self&comparing.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.zipfunction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
